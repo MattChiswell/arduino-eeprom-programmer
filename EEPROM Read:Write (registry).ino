@@ -5,8 +5,6 @@
  | Main Program Definition
  | -----------------------------------------
  | Use of this software is at your own risk!
- | License   CC BY-NC-SA 4.0
- |           https://creativecommons.org/licenses/by-nc-sa/4.0/
  | -----------------------------------------
  | @author   Matt Chiswell
  | @email    24735648+MattChiswell@users.noreply.github.com
