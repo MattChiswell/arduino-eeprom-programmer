@@ -1,6 +1,6 @@
 # Arduino EEPROM Programmer
 
-### EEPROM Programmer written for Arduino using Direct Registry Access
+### EEPROM Programmer written for Arduino using Direct Register Access
 
 This code was originally based on the concept demonstrated by [Ben Eater](https://eater.net/) with his [EEPROM Programmer](https://github.com/beneater/eeprom-programmer). I started modifying the code and ended up re-writing the vast majority of it, moving away from the higher-level Arduino library functions and into Direct Register access instead.
 
